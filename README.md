@@ -1,5 +1,5 @@
 # Infamous_Vult_Skins
-### free and grandioses skinks for the vcv rack [Vult](https://modlfo.github.io/VultModules/) modules 
+### free and grandioses skinks for the VCV Rack [Vult](https://modlfo.github.io/VultModules/) modules 
 ## skins 
 ![alt text](https://raw.githubusercontent.com/infamedavid/infamous_vult_skins/master/preview.png "preview")
 
@@ -9,5 +9,6 @@ To install these skins Download the and  unpack the zip  chose the skins that yo
 
 although I have the approval of **Vult** to distribute these skins, these are not part of the **Vult** software and are not maintained by **Vult.** You will have to restore them after every update. **Vult** artwork (Logo and Graphic files) are property of **Leonardo Laguna Ruiz**. please read the file [**"ARTWORK-LICENSE.txt"**](https://github.com/infamedavid/infamous_vult_skins/blob/master/ARTWORK-LICENSE.txt) for more information.
 
+the Home of **VCV Rack** [https://vcvrack.com/](https://vcvrack.com/)
 
 More skins are baking.
