@@ -1,7 +1,7 @@
 # Infamous_Vult_Skins
 ### free and grandioses skinks for the VCV Rack [Vult](https://modlfo.github.io/VultModules/) modules 
 ## skins 
-![no_preview](url "preview")
+![preview](https://raw.githubusercontent.com/infamedavid/infamous_vult_skins/master/flamescomb.png "preview")
 
 this is my litlle colection of skins to the  [**Vult**](https://github.com/modlfo/VultModules) modules inspired by guitar pedals.
 
