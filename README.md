@@ -3,6 +3,8 @@
 ## skins 
 ![preview](https://raw.githubusercontent.com/infamedavid/infamous_vult_skins/master/fxs.png "preview")
 
+...are you bored of the awesome look of the Vult modules?
+
 this is my litlle colection of skins to the  [**Vult**](https://github.com/modlfo/VultModules) modules inspired by guitar pedals.
 
 ### Installation Instructions
