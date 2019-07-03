@@ -1,7 +1,7 @@
 # Infamous_Vult_Skins
 ### free and grandioses skinks for the VCV Rack [Vult](https://modlfo.github.io/VultModules/) modules 
 ## skins 
-![preview](https://raw.githubusercontent.com/infamedavid/infamous_vult_skins/master/fxs.png "preview")
+![preview](https://raw.githubusercontent.com/infamedavid/infamous_vult_skins/master/preview.png "preview")
 
 ...Are you bored of the awesome look of the Vult modules?
 
